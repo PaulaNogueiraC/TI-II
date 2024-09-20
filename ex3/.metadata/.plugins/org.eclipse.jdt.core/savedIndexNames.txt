@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+INDEX VERSION 1.134+C:\EclipseIDE\TI 2\.metadata\.plugins\org.eclipse.jdt.core
+3704033060.index
+3679894859.index
+1865797976.index
+891473565.index
+=======
+INDEX VERSION 1.134+C:\EclipseIDE\PUC Minas\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3704033060.index
+>>>>>>> e355b3b3d95117d294d3dbc02e63af23e3d56887

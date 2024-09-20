@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+<<<<<<< HEAD
+<<<<<<< HEAD
+migrated.task.repositories.secure.store=true
+=======
+>>>>>>> e355b3b3d95117d294d3dbc02e63af23e3d56887
+=======
+migrated.task.repositories.secure.store=true
+>>>>>>> 0fcfd20 (exercicio 3)
+org.eclipse.mylyn.tasks.ui.filters.nonmatching=true
+org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
+org.eclipse.mylyn.tasks.ui.welcome.message=true
