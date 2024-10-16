@@ -12,7 +12,6 @@ public class EmotionDetection
 
     public static void main(String[] args) 
     {
-        // URL da imagem que você quer analisar
         String imageUrl = "https://www.instagram.com/p/DAs-4dEICj6/";
 
         try {
