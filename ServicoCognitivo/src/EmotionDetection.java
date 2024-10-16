@@ -26,9 +26,8 @@ public class EmotionDetection
     {
         OkHttpClient client = new OkHttpClient();
 
-        // JSON com a URL da imagem
         JSONObject json = new JSONObject();
-        json.put("url", imageUrl);
+        json.put("https://www.instagram.com/p/DAs-4dEICj6/", imageUrl);
 
         RequestBody body = RequestBody.create(
                 json.toString(),
