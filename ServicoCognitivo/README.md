@@ -1,18 +1,9 @@
-## Getting Started
+Emotion Detection Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Descrição:
+Este projeto consiste em uma aplicação Java que utiliza a Face API do Azure Cognitive Services para detectar emoções em uma imagem. A aplicação faz uma chamada à API para analisar as emoções faciais detectadas em uma URL de imagem fornecida.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Tecnologias Utilizadas:
+Java: Linguagem de programação utilizada para desenvolver a aplicação.
+OkHttp: Biblioteca para fazer chamadas HTTP em Java.
+JSON: Formato de dados utilizado para enviar e receber informações da API.
